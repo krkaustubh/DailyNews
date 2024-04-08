@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "Zee News",
+      "title": "LIVE Updates | IND VS SL, Super 4 Asia Cup 2023 Cricket Match Live Score: Check Both The Squads - Zee News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMi6wFodHRwczovL3plZW5ld3MuaW5kaWEuY29tL2NyaWNrZXQvbGl2ZS11cGRhdGVzL2xpdmUtY3JpY2tldC1zY29yZS1pbmQtdnMtc2wtc3VwZXItNC1hc2lhLWN1cC0yMDIzLWNyaWNrZXQtbWF0Y2gtbm8tNC10b2RheS1pbmRpYS12cy1zcmktbGFua2EtY3JpY2tldC1saXZlLXNjb3JlLWFuZC11cGRhdGVzLXItcHJlbWFkYXNhLXN0YWRpdW0tY29sb21iby1yb2hpdC1zaGFybWEtZGFzdW4tc2hhbmFrYS0yNjYxMTI00gHvAWh0dHBzOi8vemVlbmV3cy5pbmRpYS5jb20vY3JpY2tldC9saXZlLXVwZGF0ZXMvbGl2ZS1jcmlja2V0LXNjb3JlLWluZC12cy1zbC1zdXBlci00LWFzaWEtY3VwLTIwMjMtY3JpY2tldC1tYXRjaC1uby00LXRvZGF5LWluZGlhLXZzLXNyaS1sYW5rYS1jcmlja2V0LWxpdmUtc2NvcmUtYW5kLXVwZGF0ZXMtci1wcmVtYWRhc2Etc3RhZGl1bS1jb2xvbWJvLXJvaGl0LXNoYXJtYS1kYXN1bi1zaGFuYWthLTI2NjExMjQvYW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-09-12T06:52:53+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
